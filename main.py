@@ -49,10 +49,10 @@ def index():
         <!DOCTYPE html>
         <html>
         <head>
-            <title>Add Contact</title>
+            <title>Hitesh - Lab 3.9</title>
         </head>
         <body>
-            <h2>Add Contact</h2>
+            <h2>Hitesh's Digital Rolodex</h2>
             <form method="POST" action="/">
                 <label for="name">Name:</label><br>
                 <input type="text" id="name" name="name" required><br>
